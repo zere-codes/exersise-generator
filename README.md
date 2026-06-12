@@ -10,4 +10,3 @@ There are 3 lists: back_exercises, leg_exercises, abs_exercises. Each list conta
 The program splits them into 3: light 0-3, medium 3-6, hard 6-9 
 
 At the end 3 exercises are shown depending on user's choices
-_Learning Python - Day 8_
